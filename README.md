@@ -1,16 +1,20 @@
-## Hi there 👋
+### Salut, moi c'est Mohand 👋
 
-<!--
-**Mohand-Ouahmed/Mohand-Ouahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solutions Architect — Java / Spring, architectures microservices, IoT & IAM.
+8+ ans à concevoir et faire évoluer des systèmes backend critiques (paiement, assurance, objets connectés).
 
-Here are some ideas to get you started:
+🏗️ Architecture : microservices event-driven, API management & IAM (Gravitee, Keycloak), cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧭 Architecture d'entreprise : cartographie metier / applicatif / data, aide au choix de solutions
+
+🤖 En ce moment : agents IA (Claude Code), preparation de la certification Azure AI (AI-103)
+
+📍 Lyon, France
+
+---
+
+Stack principale : `Java 21` `Spring Boot` `Kafka` `RabbitMQ` `MongoDB` `PostgreSQL` `Keycloak` `Gravitee` `Docker` `Kubernetes` `Terraform`
+
+---
+
+📫 Un projet ou une architecture a challenger ? [mohand.abellache@gmail.com](mailto:mohand.abellache@gmail.com)
