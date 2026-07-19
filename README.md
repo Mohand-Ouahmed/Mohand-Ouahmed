@@ -1,7 +1,6 @@
 ### Salut, moi c'est Mohand 👋
 
-Solutions Architect — Java / Spring, architectures microservices, IoT & IAM.
-8+ ans à concevoir et faire évoluer des systèmes backend critiques (paiement, assurance, objets connectés).
+Solutions Architect — Java / Spring, architectures microservices, IoT & IAM. 8+ ans à concevoir et faire évoluer des systèmes backend critiques (assurance, objets connectés).
 
 🏗️ Architecture : microservices event-driven, API management & IAM (Gravitee, Keycloak), cloud
 
@@ -13,8 +12,8 @@ Solutions Architect — Java / Spring, architectures microservices, IoT & IAM.
 
 ---
 
-Stack principale : `Java 21` `Spring Boot` `Kafka` `RabbitMQ` `MongoDB` `PostgreSQL` `Keycloak` `Gravitee` `Docker` `Kubernetes` `Terraform`
+Stack principale : `Java 21` `Spring Boot` `RabbitMQ` `ActiveMQ / MQTT` `MongoDB` `PostgreSQL` `Keycloak` `Gravitee` `Docker` `Kubernetes` `Terraform`
 
 ---
 
-📫 Un projet ou une architecture a challenger ? [mohand.abellache@gmail.com](mailto:mohand.abellache@gmail.com)
+📫 Un projet ou une architecture a challenger ? mohand.abellache@gmail.com
