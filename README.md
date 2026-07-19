@@ -2,7 +2,7 @@
 
 Solutions Architect — Java / Spring, architectures microservices, IoT & IAM. 8+ ans à concevoir et faire évoluer des systèmes backend critiques (assurance, objets connectés).
 
-🏗️ Architecture : microservices event-driven, API management & IAM (Gravitee, Keycloak), cloud
+🏗️ Architecture : microservices event-driven, API management & IAM (Gravitee, Keycloak), BPM (Camunda 7), cloud Azure
 
 🧭 Architecture d'entreprise : cartographie metier / applicatif / data, aide au choix de solutions
 
@@ -12,7 +12,7 @@ Solutions Architect — Java / Spring, architectures microservices, IoT & IAM. 8
 
 ---
 
-Stack principale : `Java 21` `Spring Boot` `RabbitMQ` `ActiveMQ / MQTT` `MongoDB` `PostgreSQL` `Keycloak` `Gravitee` `Docker` `Kubernetes` `Terraform`
+Stack principale : `Java 21` `Spring Boot` `RabbitMQ` `ActiveMQ / MQTT` `MongoDB Atlas` `MySQL` `PostgreSQL` `Camunda 7` `Azure` `Keycloak` `Gravitee` `Docker` `Kubernetes` `Terraform`
 
 ---
 
